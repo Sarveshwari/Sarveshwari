@@ -1,7 +1,7 @@
 ![logo](https://github.com/Sarveshwari/Sarveshwari/blob/main/github%20banner.gif)
 
 <h3 align="center">3rd year B.Tech Computer Science Undergraduate from India</h3>
-<img align="right" alt="Coding" width="250" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarveshwari&label=Profile%20views&color=0e75b6&style=flat" alt="sarveshwari" /> </p>
 
