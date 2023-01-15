@@ -1,6 +1,5 @@
 ![logo](https://github.com/Sarveshwari/Sarveshwari/blob/main/github%20banner.gif)
 
-<h1 align="center">Hi 👋, I'm Sarveshwari</h1>
 <h3 align="center">3rd year B.Tech Computer Science Undergraduate from India</h3>
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
