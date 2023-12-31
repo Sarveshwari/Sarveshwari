@@ -8,7 +8,7 @@
 
 - 🔭 I am an engineering student studying in **Manipal Institute of Technology.**
 
-- 🌱 I’m currently learning **App Development.**
+- 🌱 I’m currently learning **Computer Networking.**
 
 - 🤝 Open to any project collaborations **.**
 
